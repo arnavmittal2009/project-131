@@ -1,0 +1,34 @@
+#ac{
+    width: 900px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+#tv{
+    width: 900px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+#pc{
+    width: 900px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+#rom{
+    width: 900px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+#bot{
+    width: 900px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
